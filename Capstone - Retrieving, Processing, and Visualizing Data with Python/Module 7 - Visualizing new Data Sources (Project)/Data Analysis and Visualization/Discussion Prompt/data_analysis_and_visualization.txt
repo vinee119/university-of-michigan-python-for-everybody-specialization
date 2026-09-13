@@ -1,0 +1,9 @@
+I completed the analysis of the OpenFoodFacts dataset and used visualizations to make the main findings easier to understand.
+
+The analysis included comparisons of average nutrition scores across major countries and brands, nutritional profiles across major food categories, and nutritional profiles across PNNS food groups. I also examined relationships between important nutritional variables, including energy and fat, fat and saturated fat, and carbohydrates and sugars.
+
+The visualizations helped make these patterns much clearer than looking at the numerical results alone. The country and category comparisons made differences in nutritional profiles easier to see, while the heatmaps helped show which nutritional characteristics were relatively higher or lower across different food groups. The scatter plots were useful for seeing the relationships between nutritional variables.
+
+Overall, the analysis gave me the information I was looking for and helped me understand the dataset beyond its basic structure. One thing I found useful was seeing how different food groups can have very different nutritional profiles even within the same overall dataset.
+
+This project also gave me more practical experience with working through a complete data analysis process, from inspecting and cleaning a real-world dataset to exploring it and communicating the results through visualizations. I think this experience will be useful for future data analysis and data science projects.

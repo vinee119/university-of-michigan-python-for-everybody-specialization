@@ -1,0 +1,7 @@
+I chose the OpenFoodFacts dataset for my project. It is a large real-world dataset containing information about food products from different countries and brands, including categories, ingredients, food classifications, nutrition grades, and nutritional values.
+
+I chose this dataset because it provides a good amount of information for exploring nutritional patterns in food products. It also has enough variety to look at the data from different perspectives, such as countries, brands, food categories, and food groups.
+
+Some of the analysis I planned to do included examining the nutritional characteristics of different food categories, comparing nutrition scores across countries and brands, looking at food-group classifications, and studying relationships between nutritional variables such as energy, fat, sugars, and proteins.
+
+I thought this would be a useful dataset for the project because it gives an opportunity to work with a large real-world dataset rather than a small prepared dataset.

@@ -1,0 +1,7 @@
+Since Week 3, I have continued working with the OpenFoodFacts dataset and have completed the main data preparation steps needed for the analysis.
+
+The original dataset contained 356,027 products and 163 columns. I examined the structure of the data, missing values, data types, and duplicate records, and then cleaned the dataset by removing columns with excessive missing values while keeping the important nutritional information. After preprocessing, the dataset still contained 356,027 products but was reduced to 64 columns.
+
+I continued with exploratory analysis after the cleaning stage. I looked at distributions, missing values, categorical variables, nutrition grades, food classifications, and relationships between important nutritional variables.
+
+I did not change the data source from the one I identified in Week 3. The main challenge was working with the size and variety of the dataset and deciding which columns were useful enough to retain for the analysis. Once the data was cleaned and organized, it became much easier to continue with the analysis.
