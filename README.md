@@ -1,6 +1,6 @@
-Python for Everybody Specialization
+# Python for Everybody Specialization
 
-University of Michigan · Coursera
+**University of Michigan · Coursera**
 
 A structured repository documenting my completion of the Python for Everybody Specialization, developed by the University of Michigan and offered through Coursera.
 
@@ -8,11 +8,11 @@ This repository preserves the progression of the specialization from foundationa
 
 The overall progression is:
 
-Python Programming → Data Structures → Web Data → Databases → Capstone
+**Python Programming → Data Structures → Web Data → Databases → Capstone**
 
 ---
 
-About the Specialization
+## About the Specialization
 
 The Python for Everybody Specialization provides a progressive introduction to programming and practical data handling with Python.
 
@@ -22,13 +22,13 @@ This repository is organized as a technical record of that progression. Rather t
 
 ---
 
-Courses Included
+## Courses Included
 
-1. Programming for Everybody (Getting Started with Python)
+### 1. Programming for Everybody (Getting Started with Python)
 
 The foundation of the specialization, covering the essential concepts required to write, understand, execute, and debug Python programs.
 
-Key areas include:
+**Key areas include:**
 
 - Programming concepts and computational thinking
 - Variables, expressions, and data types
@@ -42,11 +42,11 @@ The course establishes the programming foundation used throughout the remaining 
 
 ---
 
-2. Python Data Structures
+### 2. Python Data Structures
 
 Builds upon Python fundamentals by introducing practical structures and techniques for processing collections of information.
 
-Key areas include:
+**Key areas include:**
 
 - Strings
 - Files and file processing
@@ -61,11 +61,11 @@ The repository retains the modules and coursework artifacts represented in the f
 
 ---
 
-3. Using Python to Access Web Data
+### 3. Using Python to Access Web Data
 
 Extends Python into web-based data retrieval and processing.
 
-Key areas include:
+**Key areas include:**
 
 - Regular expressions
 - Networks and sockets
@@ -81,11 +81,11 @@ The course demonstrates how Python can move beyond local files and work with inf
 
 ---
 
-4. Using Databases with Python
+### 4. Using Databases with Python
 
 Introduces persistent data storage and relational database concepts using Python and SQLite.
 
-Key areas include:
+**Key areas include:**
 
 - Object-oriented programming concepts
 - SQL
@@ -101,7 +101,7 @@ The coursework progresses from basic SQL operations toward relational schemas an
 
 ---
 
-5. Capstone - Retrieving, Processing, and Visualizing Data with Python
+### 5. Capstone - Retrieving, Processing, and Visualizing Data with Python
 
 Brings together concepts from across the specialization through larger practical workflows.
 
@@ -119,9 +119,9 @@ The Capstone provides the strongest connection between the individual programmin
 
 ---
 
-Skills Covered
+## Skills Covered
 
-Python Programming
+### Python Programming
 
 - Python fundamentals
 - Variables and expressions
@@ -133,7 +133,7 @@ Python Programming
 - Python data structures
 - Object-oriented programming concepts
 
-Web & Network Programming
+### Web & Network Programming
 
 - HTTP
 - TCP/IP sockets
@@ -145,7 +145,7 @@ Web & Network Programming
 - REST APIs
 - Web services
 
-Databases & SQL
+### Databases & SQL
 
 - SQLite
 - SQL queries
@@ -155,7 +155,7 @@ Databases & SQL
 - Many-to-many relationships
 - Database-backed data processing
 
-Data Processing & Analysis
+### Data Processing & Analysis
 
 - Text processing
 - Regular expressions
@@ -166,7 +166,7 @@ Data Processing & Analysis
 - Exploratory analysis
 - Structured data workflows
 
-Algorithms & Data Workflows
+### Algorithms & Data Workflows
 
 - PageRank
 - Web crawling
@@ -176,7 +176,7 @@ Algorithms & Data Workflows
 - Aggregation
 - Multi-stage processing pipelines
 
-Visualization
+### Visualization
 
 - D3.js
 - JavaScript-based visualization workflows
@@ -188,15 +188,15 @@ Visualization
 
 ---
 
-Tools & Technologies
+## Tools & Technologies
 
-Programming & Development
+### Programming & Development
 
 - Python
 - JavaScript
 - VS Code
 
-Python Libraries & Modules
+### Python Libraries & Modules
 
 - "sqlite3"
 - "urllib"
@@ -213,7 +213,7 @@ Python Libraries & Modules
 - "Matplotlib"
 - "Seaborn"
 
-Databases & Data Formats
+### Databases & Data Formats
 
 - SQLite
 - CSV
@@ -222,7 +222,7 @@ Databases & Data Formats
 - XML
 - HTML
 
-Visualization
+### Visualization
 
 - D3.js
 - D3 Cloud Layout
@@ -235,17 +235,17 @@ Development environment: VS Code was the primary development environment used th
 
 ---
 
-Highlighted Practical Work
+## Highlighted Practical Work
 
-PageRank & Web Spidering
+### PageRank & Web Spidering
 
 The Capstone PageRank work combines web crawling, HTML parsing, SQLite storage, link analysis, ranking, JavaScript data generation, and visualization.
 
 The overall workflow can be represented as:
 
-Retrieve → Parse → Store → Rank → Export → Visualize
+**Retrieve → Parse → Store → Rank → Export → Visualize**
 
-Key components include:
+**Key components include:**
 
 - Web page retrieval
 - HTML parsing with BeautifulSoup
@@ -260,13 +260,13 @@ The implementation demonstrates how raw web pages can be transformed into struct
 
 ---
 
-GMANE Email Retrieval & Modeling
+### GMANE Email Retrieval & Modeling
 
 The Capstone email-processing work demonstrates a multi-stage workflow for retrieving, parsing, storing, modeling, and aggregating email data.
 
 The workflow can be represented as:
 
-Retrieve → Parse → Store → Model → Aggregate
+**Retrieve → Parse → Store → Model → Aggregate**
 
 The implementation includes:
 
@@ -283,13 +283,13 @@ This work demonstrates the transition from raw retrieved data to a structured re
 
 ---
 
-Email Data Visualization
+### Email Data Visualization
 
 The Capstone visualization work builds upon the processed email data and transforms aggregated information into visual representations.
 
 The workflow can be represented as:
 
-Aggregate → Transform → Generate Visualization Data → Visualize
+**Aggregate → Transform → Generate Visualization Data → Visualize**
 
 Artifacts include:
 
@@ -304,15 +304,15 @@ Together, these artifacts demonstrate how processed data can be transformed into
 
 ---
 
-OpenFoodFacts Capstone Project
+## OpenFoodFacts Capstone Project
 
 The OpenFoodFacts analysis forms the external data-source analysis component of the Capstone and is also maintained as a separate standalone project repository.
 
 The project follows a complete data-analysis workflow:
 
-Data Source Selection → Data Cleaning & Preprocessing → Exploratory Data Analysis → Visualization & Insights → Conclusion
+**Data Source Selection → Data Cleaning & Preprocessing → Exploratory Data Analysis → Visualization & Insights → Conclusion**
 
-Dataset Scale
+### Dataset Scale
 
 The original OpenFoodFacts dataset contained:
 
@@ -326,7 +326,7 @@ After preprocessing:
 
 The preprocessing stage removed columns with more than 90% missing values while retaining all records. "potassium_100g" was explicitly retained, and the final processed dataset contained no duplicate records.
 
-Analysis
+### Analysis
 
 The analysis examines nutritional information across countries, brands, food categories, and PNNS food groups.
 
@@ -351,7 +351,7 @@ The standalone project maintains its own structured organization for data, noteb
 
 ---
 
-Datasets & Data Sources
+## Datasets & Data Sources
 
 The coursework works with multiple forms of structured and semi-structured data, including:
 
@@ -382,8 +382,9 @@ Large datasets and generated artifacts may be retained locally or represented th
 
 ---
 
-Repository Structure
+## Repository Structure
 
+```text
 Python for Everybody Specialization
 │
 ├── LICENSE
@@ -680,25 +681,25 @@ Python for Everybody Specialization
         │   └── rest_json_and_apis_grade.pdf
         └── Using a Geo Location API
             └── calling_a_json_api.py
+```
+## Certificates
+
+| Course | Verification |
+|---|---|
+| Programming for Everybody (Getting Started with Python) | https://coursera.org/verify/32PVA1AH4GQO |
+| Python Data Structures | https://coursera.org/verify/Z5NI6GFEKH5K |
+| Using Python to Access Web Data | https://coursera.org/verify/QMCFPJL8O5TE |
+| Using Databases with Python | https://coursera.org/verify/BTBESDPGAK5M |
+| Capstone - Retrieving, Processing, and Visualizing Data with Python | https://coursera.org/verify/KKU2ZQE4QAKO |
+| Python for Everybody Specialization | https://coursera.org/verify/specialization/0FJIV7OWCILU |
 
 ---
 
-Certificates
-
-Course| Verification
-Programming for Everybody (Getting Started with Python)| https://coursera.org/verify/32PVA1AH4GQO
-Python Data Structures| https://coursera.org/verify/Z5NI6GFEKH5K
-Using Python to Access Web Data| https://coursera.org/verify/QMCFPJL8O5TE
-Using Databases with Python| https://coursera.org/verify/BTBESDPGAK5M
-Capstone - Retrieving, Processing, and Visualizing Data with Python| https://coursera.org/verify/KKU2ZQE4QAKO
-Python for Everybody Specialization| https://coursera.org/verify/specialization/0FJIV7OWCILU
-
----
-
-Repository Philosophy
+## Repository Philosophy
 
 This repository is organized to show a progression from fundamental programming concepts toward practical data workflows.
 
+```text
 Programming Fundamentals
         │
         ▼
@@ -720,6 +721,7 @@ Capstone Data Workflows
         ├── Email Visualization
         │
         └── OpenFoodFacts Data Analysis
+```
 
 The emphasis is not only on completing individual exercises, but on preserving how programming concepts develop into increasingly complete data-processing workflows.
 
@@ -729,7 +731,7 @@ The resulting repository therefore represents both a learning progression and a 
 
 ---
 
-Notes
+## Notes
 
 - This repository follows the five-course structure of the Python for Everybody Specialization.
 - Coursework artifacts are organized according to their corresponding course, module, activity, and project context.
@@ -742,7 +744,7 @@ Notes
 
 ---
 
-Disclaimer
+## Disclaimer
 
 This repository is maintained for educational, academic, portfolio, and personal learning purposes.
 
